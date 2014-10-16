@@ -1,4 +1,5 @@
 Quaternion
 ==========
 
-Deal with quaternions in C++ projects (all algebric operations, rotation vectors or matrix into quaternions, ...)
+a C++ class to deal with quaternions (all algebric operations, rotation vectors or matrix into quaternions, ...)
+
